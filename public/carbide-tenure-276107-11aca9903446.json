@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "carbide-tenure-276107",
+  "private_key_id": "11aca99034466e6e9dddbe8426752d6804b7378e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDkY6K33CVUFwHD\nrPmRkDU7PEWbOCfjLMSwcMnfMwFyaBsQsS+7k2yscnVA3x/OmiD2C6nikLaveeP6\nF2WbDIP2779G93GJBnUN6N9mBk6AWncY/lEtjDjaJEFD9o4jq0a/Sv+GAWjSIFa4\nRecp39vMuMNGKXy2glZ39dWswvtwMPHiDIQ/3gNZ9MgShTqfFyWbw6aZCKAl7Qyq\nQ3EYW18GLPWvlVuhXhlL2JewdT4RFX8ATuPyPbldYaMAlzetO8vOArvv6VOFm40M\nr+kCnf9RmfRlIQHyvc1577yDtRPLzqT/Jwwqe3DLayEpcWjmwzQV9b5aGpINiYlB\n3+LkX0MlAgMBAAECgf971nmgWk9mJDtK/fR3EvCiWJHAlZMtX3yFvZzgRK5IbotP\neTXAzKmr0ja2e989nAs38ozelAVeTi4T0PFENSc23Zsx+Vqk0rDY85FWdAPppgd8\nRHUmVvuki2pxwhQuTnUFgyUQChRR5u0ev3M6wWi6B9t/VMD4TBS+ivz5RwSusGNU\nD7TDPmjKwZCsw6UQFRCpCt2L3wAYGsPFLNgReg7KKTxMbE3vSV+hAYoIkj6ByGPz\nqlil2zuLlIJ5VPHIsNVKLVL60OC2ZN+tSacqsewtw3LKS6J0sDDqVN7u+RMYBpDO\n8WsZN7iLK/colC857oCg9mFFQRl4wKbhgqGli6cCgYEA93zrIO8wndhAvLILYhCs\ncsDrh1uzFKM89P9ID3eFKLZtTDp6Gn26sJhHSi3C1ys1JVFTmpDnK2hEFKbRGsp5\nTM/Xi++M4y8D8KOYyPNtafMDfImGsrIg+jArRmFpH2jBWjoh5C+GxmaoRZZPD2FW\nDoFFcK/Pr2DtVq2KZt4B3N8CgYEA7D6OcQVHdkjct5IyEa15ErzkblD6yLNd1WIv\nIxcTP8ymg2r1IoVWcsErrtAtJWgHjijtAfFjZc/MKkXnEfSK+T1tc6l2/fwCqdMU\n9Z+bbNhAOx/hp/fI5eNEs7wBJVc/l2LPF2M2HuCF1nphd1Op7tbRZsnZAhSsHfG+\nDNsmXHsCgYAvLmNs/eyYyvdcgdzlryQRJHJCddroHk6qrlhAipqaLl0b4TISBtIm\nhIFixOKWPqh9GsoDd4h6oAAKp9rJbrw9RopjJSII1Ze8spOYC8BaKHgLr/Q78PWU\nfMZjPoLZ+BCUcOyxIdZh0IRX79XWqsnLLh3c48eGOcZFdgQipERapQKBgCI0mIky\nu3sb56FIsKkwldQpt2VlojoHBnIL6klJYQceyYlDpkSeS7sHzxxblf3Rhy6FLHPY\nkIzAPo5sWp2V671UsJFLmygBIh2Wq3U469chpIMrBZA9Z0Ap3NutP/k5HcL8koGP\nYtmrppU8WPpfCb7EKcOZPCt59MXNJ7hSzsYbAoGABulUM6s46/GUcek1/H7Fxkex\nE7UB6ABw/1ejqn71uuawJvtJFJDJfLXbqbVAqyT2lbx8JEseQtMn+4Fdztvk5rdQ\nw3QUjBp23wVdDUCfv5RtEDxS34lgTbo8uCA/HlCuWNan5qZPSDFnjl19Fsa0FUPZ\nfkHW6fiB5dfX2PbJOUY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-analytics-api-laravel@carbide-tenure-276107.iam.gserviceaccount.com",
+  "client_id": "103696714461518911220",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-analytics-api-laravel%40carbide-tenure-276107.iam.gserviceaccount.com"
+}

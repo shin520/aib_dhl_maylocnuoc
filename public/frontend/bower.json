@@ -1,0 +1,27 @@
+{
+  "name": "Bootstrap-2",
+  "description": "Bai tap ve Bootstrap",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap4": "^4.3.1",
+    "Jquery": "^3.4.1",
+    "fontAwesome": "^5.11.2",
+    "popper.js": "^1.16.0",
+    "animate.css": "^3.7.1",
+    "wow": "wow.js#^1.1.2",
+    "jquery-ui": "jqueryui#^1.12.1",
+    "themify-icons": "^0.1.2",
+    "owl.carousel": "^2.3.4",
+    "lightbox2": "^2.11.1",
+    "SyntaxHighlighter": "^3.0.83"
+  }
+}

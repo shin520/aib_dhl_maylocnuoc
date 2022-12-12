@@ -1,0 +1,243 @@
+
+@media (max-width:500px) {
+    .btn {
+        margin-bottom: 10px
+    }
+    .card h3 {
+        margin-top: 10px
+    }
+    .card .count-post h3 {
+        margin-top: 0;
+        padding: 4px 0 4px 0
+    }
+    .card>.post-content>.title {
+        font-size: 1.4em!important
+    }
+    .card>.post-content>p {
+        font-size: 1em!important
+    }
+    .card-custom {
+        padding: 0;
+        width: fit-content;
+        height: fit-content
+    }
+    .section {
+        background-color: #fff
+    }
+    .card .card-footer {
+        padding: 0 0 15px 0
+    }
+    .card .card-body .card-body-content {
+        padding: 10px
+    }
+    .card .card-body .card-search {
+        padding: 15px
+    }
+    .h1-seo-title .logo {
+    height: 35px;
+    }
+    .logo {
+      margin-left: 0px;
+    }
+    .logo-protected-group {
+    text-align: left !important;
+    }
+    .article {
+        padding: 10px 30px;
+    }
+    body .main-title-box{
+    width: 90%;
+    }
+    .hotline {
+    display: none;
+    }
+}
+@media (max-width: 767px) {
+  .offcanvas-collapse {
+    position: fixed;
+    top: 56px;
+    bottom: 0;
+    width: 100%;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    overflow-y: auto;
+    background-color: var(--gray-dark);
+    transition: -webkit-transform .3s ease-in-out;
+    transition: transform .3s ease-in-out;
+    transition: transform .3s ease-in-out, -webkit-transform .3s ease-in-out;
+    -webkit-transform: translateX(100%);
+    transform: translateX(100%);
+  }
+  .offcanvas-collapse.open {
+    -webkit-transform: translateX(-1rem);
+    transform: translateX(-1rem);  
+  }
+  .photo-gallery h2 {
+      margin-bottom: 25px;
+      padding-top: 25px;
+      font-size: 24px
+  }
+  .card .card-body {
+      padding: 10px !important;
+  }
+  .phonefixed .col-4{
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .fixedtwo {
+    display: none;
+  }
+  .fixedthree {
+    display: none;
+  }
+  .logo {
+      margin-left: 0px;
+  }
+  .logo-protected-group {
+    text-align: left !important;
+  }
+  .article {
+      padding: 10px 30px;
+  }
+  body .main-title-box{
+    width: 90%;
+  }
+  .hotline {
+    display: none;
+  }
+  .btn {
+      margin-bottom: 10px
+  }
+  .card h3 {
+      margin-top: 10px
+  }
+  .card .count-post h3 {
+      margin-top: 0;
+      padding: 4px 0 4px 0
+  }
+  .card>.post-content>.title {
+      font-size: 1.4em!important
+  }
+  .card>.post-content>p {
+      font-size: 1em!important
+  }
+  .container .logo {
+      max-width: 100%;
+      margin-left: 0px;
+  }
+  .card-custom {
+      padding: 0;
+      width: fit-content;
+      height: fit-content
+  }
+  .section {
+      background-color: #fff
+  }
+  .card .card-footer {
+      padding: 0 0 15px 0
+  }
+  .card .card-body .card-body-content {
+      padding: 10px
+  }
+  .card .card-body .card-search {
+      padding: 15px
+  }
+  .h1-seo-title .logo {
+  height: 35px;
+  }
+  .card-text {
+      margin-bottom: 0px;
+  }
+  .card-more {
+      margin-bottom: 0px;
+  }
+}
+@media (min-width: 320px) and (max-width: 767px) {
+    .logo-protected-group {
+    text-align: left !important;
+    }
+    .article {
+        padding: 15px;
+    }
+    body .main-title-box{
+    width: 90%;
+    }
+    .hotline {
+    display: none;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .nav-child{
+        display: none;
+    }
+    .container {
+    max-width: 100%;
+    }
+    .article {
+        padding: 10px 30px;
+    }
+    body .main-title-box{
+    width: 90% !important;
+    }
+    .social-follow-us {
+      display: none;
+    }
+}
+@media (min-width: 1200px){
+.navbar-expand-xl .navbar-nav .nav-link {
+    padding-right: 0.6rem;
+    padding-left: 0.6rem;
+}
+}
+.nav-child .top-nav a i:hover {
+    color: red !important;
+}
+.footer-htkh li a {
+    color: #fff;
+}
+.footer-htkh li a:hover {
+    color: #feb600;
+}
+.container {
+    max-width: 1200px;
+}
+.logo-protected-group {
+text-align: right; !important;
+}
+.logo-mobile {
+  display: none;
+}
+@media (max-width:1200px) {
+    .btn {
+        margin-bottom: 10px
+    }
+    .card h3 {
+        margin-top: 10px;
+        line-height: 20px;
+    }
+    .card .count-post h3 {
+        margin-top: 0;
+        padding: 4px 0 4px 0
+    }
+    .card>.post-content>.title {
+        font-size: 1.4em!important
+    }
+    .card>.post-content>p {
+        font-size: 1em!important
+    }
+    .card .card-body .card-body-content {
+        padding: 10px
+    }
+    .nav-child{
+        display: none;
+    }
+    .container {
+    max-width: 100%;
+    }
+    .max800 {
+        max-width: 800px;
+    }
+    .logo {
+      margin-left: 0px;
+    }
+}
